@@ -16,7 +16,7 @@ This repository contains my latest resume for entry-level Cloud and DevOps roles
 - Monitoring: CloudWatch, Grafana (basic)
 
 📄 Resume PDF:  
-[Rohit_Ghute_AWS_Cloud_DevOps_Resume.pdf](./Rohit_Ghute_AWS_Cloud_DevOps_Resume.pdf)
+[Rohit_Ghute_AWS_Cloud_DevOps_Resume.pdf](./Rohit_Ghute_Cloud_DevOps_Resume.pdf)
 
 📧 Email: rohitghute175@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/rohit-ghute-917b662ab/
